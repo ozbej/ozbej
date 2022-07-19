@@ -21,6 +21,8 @@ However, I am currently mostly educating myself and expanding my knowledge in Ma
 &nbsp;
 <a href = 'https://www.github.com/ozbej'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
+If you want to learn more about me, you are welcome to [view my CV](https://github.com/ozbej/ozbej/blob/main/Golob%20O%C5%BEbej%20CV%20v2_compressed.pdf).
+
 
 
 
