@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Ožbej Golob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello there, I am Ožbej Golob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">Machine Learning Engineer | Data Scientist </h4>
 
 ## :sassy_man: About me
