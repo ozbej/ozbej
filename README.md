@@ -6,10 +6,15 @@ I am a Masters Student at University of Ljubljana, Faculty of Computer and Infor
 I am enthusiastic and eager to learn new technologies and meet new people.
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,mysql,postgresql,php,java,nodejs,docker,kubernetes,github,gitlab,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,python,mysql,postgresql,php,java,spring,nodejs,docker,kubernetes,pytorch)](https://skillicons.dev)
 
-I have experience with Front-end, Back-end, and Mobile development.  
-However, I am currently mostly educating myself and expanding my knowledge in Machine Learning (mostly Recommender Systems, Network Analysis, Natural Language Processing, Computer Vision, Image Biometry). I have experience with Keras, Tensorflow, PyTorch, and Fastai.
+I have experience with:
+- Front-end (JS, HTML, CSS, Bootstrap, React)
+- Back-end (NodeJS, Java Springboot, php, MySQL, PostgreSQL)
+- Mobile development (React Native)
+- Machine Learning (Keras, Tensorflow, PyTorch, and Fastai)
+
+I am currently mostly educating myself and expanding my knowledge in Machine Learning (mainly Recommender Systems, Network Analysis, Natural Language Processing, Computer Vision, Image Biometry).
 
 ## Publications
 - [Semi-automated correction of MOBIUS eye region annotations](https://erk.fe.uni-lj.si/2020/papers/golob(semi_automated_correction).pdf)
