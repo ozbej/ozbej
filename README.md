@@ -6,7 +6,7 @@ I am a Masters Student at University of Ljubljana, Faculty of Computer and Infor
 I am enthusiastic and eager to learn new technologies and meet new people.
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,python,mysql,postgresql,php,java,spring,nodejs,docker,kubernetes,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,angular,python,mysql,postgresql,php,java,spring,nodejs,docker,kubernetes,pytorch)](https://skillicons.dev)
 
 I have experience with:
 - Front-end (JS, HTML, CSS, Bootstrap, React)
