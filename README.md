@@ -9,7 +9,7 @@ I am enthusiastic and eager to learn new technologies and meet new people.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,angular,python,mysql,postgresql,php,java,spring,nodejs,docker,kubernetes,pytorch)](https://skillicons.dev)
 
 I have experience with:
-- Front-end (JS, HTML, CSS, Bootstrap, React)
+- Front-end (JS, HTML, CSS, Bootstrap, React, Angular)
 - Back-end (NodeJS, Java Springboot, php, MySQL, PostgreSQL)
 - Mobile development (React Native)
 - Machine Learning (Keras, Tensorflow, PyTorch, and Fastai)
