@@ -14,8 +14,6 @@ I have experience with:
 - Mobile development (React Native)
 - Machine Learning (Keras, Tensorflow, PyTorch, and Fastai)
 
-I am currently mostly educating myself and expanding my knowledge in Machine Learning (mainly Recommender Systems, Network Analysis, Natural Language Processing, Computer Vision, Image Biometry).
-
 ## Publications
 - [Semi-automated correction of MOBIUS eye region annotations](https://erk.fe.uni-lj.si/2020/papers/golob(semi_automated_correction).pdf)
 - [Anomaly Detection in Magnetic Resonance-based ElectricalProperties Tomography of in silico Brains](http://library.ijs.si/Stacks/Proceedings/InformationSociety/2021/IS2021_Volume_A.pdf#page=29)
